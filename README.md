@@ -5,3 +5,5 @@
   <li>On my Github, you can find projects that I made mostly using Javascript. I am willing to learn new languages and frameworks to improve my skill set.</li>
   <li>Collaborating with others and engaging in code reviews is something I truly enjoy. Sharing my knowledge with others is also a great passion of mine.</li>
 </ul>
+
+![](https://leetcard.jacoblin.cool/wooseok0717?ext=heatmap)
