@@ -1,4 +1,4 @@
-# Josh Jang
+<h1 align='center'>Josh Jang</h1>
 
 ### Hello there! I am Josh Jang! I am a software engineer. I have a passion for coding and love to problem solve and learning new technologies.
 
