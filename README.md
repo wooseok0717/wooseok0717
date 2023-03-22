@@ -1,7 +1,7 @@
 <h1 align='center'>Josh Jang</h1>
 
-### Hello there! I am Josh Jang! I am a software engineer. I have a passion for coding and love to problem solve and learning new technologies.
+### Hi there! My name is Josh Jang and I'm a software engineer. I really love coding and I'm always excited to solve problems and learn about new technologies.
 
-### My Github contains projects made with mostly Javascript, and I am looking to expand my skill set.
+### On my Github, you can find projects that I made mostly using Javascript. I am willing to learn new languages and frameworks to improve my skill set.
 
 ### Collaborating with others and engaging in code reviews is something I truly enjoy. Sharing my knowledge with others is also a great passion of mine.
