@@ -6,4 +6,3 @@
   <li>Collaborating with others and engaging in code reviews is something I truly enjoy. Sharing my knowledge with others is also a great passion of mine.</li>
 </ul>
 
-![](https://leetcard.jacoblin.cool/wooseok0717?ext=heatmap)
